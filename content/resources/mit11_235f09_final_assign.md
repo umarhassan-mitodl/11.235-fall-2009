@@ -4,6 +4,8 @@ description: Instructions for the final oral presentation project of the course.
 file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/8e04cb8ec9b0f798cebd1e8c252286e3_MIT11_235F09_final_assign.pdf
 file_size: 35437
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
