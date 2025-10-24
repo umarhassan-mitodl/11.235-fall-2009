@@ -4,8 +4,6 @@ description: Example of student work for the first assignment of the course.
 file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/f37c495c8e686176d485b3fe44faba52_MIT11_235F09_student1.pdf
 file_size: 50680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

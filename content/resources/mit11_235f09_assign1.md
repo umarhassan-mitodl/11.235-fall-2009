@@ -5,8 +5,6 @@ description: Instructions for a writing assignment on the readings for the first
 file: /courses/11-235-analyzing-projects-and-organizations-fall-2009/fe1ac00dbaf6422afcc20bbcc04ba244_MIT11_235F09_assign1.pdf
 file_size: 34272
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

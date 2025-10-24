@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list readings assigned for each lecture session
   of the course along with notes from the professors on the readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
